@@ -29,8 +29,8 @@ swirl()
 5. Missing Values (оценивается 1 балл)
 6. Subsetting Vectors (оценивается 1 балл)
 7. Matrices and Data Frames (оценивается 1 балл)
-8: Functions (оценивается 1 балл)
-9: Looking at Data (оценивается 1 балл)
+9. Functions (оценивается 1 балл)
+12. Looking at Data (оценивается 1 балл)
 
 
 ## Acknowledgments
